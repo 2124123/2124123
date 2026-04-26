@@ -21,11 +21,5 @@
   <img alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">        
           
 </div>
- 
-<div> 
-
-  <a href = "asasade398@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
 
 
