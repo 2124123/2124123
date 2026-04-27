@@ -75,7 +75,6 @@
 ### Perfil de teste (não oficial)
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
                   
 
    
